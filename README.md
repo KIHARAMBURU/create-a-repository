@@ -1,3 +1,3 @@
 # create-a-repository
-Description
-Thsi is an edit to this readme file
+Description:
+This is an edit to this readme file
